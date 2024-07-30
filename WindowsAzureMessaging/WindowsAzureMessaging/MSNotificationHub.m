@@ -12,7 +12,7 @@
 #import <UserNotifications/UserNotifications.h>
 #endif
 
-#import "ANHApplicationProvider.h"
+#import "../Internal/ANHApplicationProvider.h"
 #import "ANHNotificationHubAppDelegateForwarder.h"
 #import "ANHUserNotificationCenterDelegateForwarder.h"
 #import "MSDebounceInstallationManager.h"

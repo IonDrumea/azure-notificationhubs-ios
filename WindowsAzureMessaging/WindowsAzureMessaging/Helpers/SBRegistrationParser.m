@@ -4,7 +4,7 @@
 
 #import "SBRegistrationParser.h"
 #import "SBNotificationHubHelper.h"
-#import "SBTemplateRegistration.h"
+#import "../SBTemplateRegistration.h"
 
 @implementation SBRegistrationParser
 

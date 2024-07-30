@@ -2,7 +2,7 @@
 //  Copyright (c) Microsoft Corporation. All rights reserved.
 //----------------------------------------------------------------
 
-#import "ANHAsync.h"
+#import "../Internal/ANHAsync.h"
 #import "SBURLConnection.h"
 #import "SBNotificationHubHelper.h"
 

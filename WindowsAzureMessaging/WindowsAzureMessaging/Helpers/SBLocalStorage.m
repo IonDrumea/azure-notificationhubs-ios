@@ -6,7 +6,7 @@
 #import "SBNotificationHub.h"
 #import "SBNotificationHubHelper.h"
 #import "SBRegistration.h"
-#import "SBTemplateRegistration.h"
+#import "../SBTemplateRegistration.h"
 
 @implementation SBLocalStorage
 
