@@ -4,7 +4,7 @@
 #import <Foundation/Foundation.h>
 #import <UserNotifications/UserNotifications.h>
 
-#import "ANHAsync.h"
+#import "../Internal/ANHAsync.h"
 #import "ANHUserNotificationCenterDelegateForwarder.h"
 #import "MSNotificationHub.h"
 

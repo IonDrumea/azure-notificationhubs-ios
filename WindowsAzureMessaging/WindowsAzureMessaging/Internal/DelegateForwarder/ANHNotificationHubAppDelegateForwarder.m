@@ -3,7 +3,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "ANHAsync.h"
+#import "../Internal/ANHAsync.h"
 #import "ANHApplication.h"
 #import "ANHNotificationHubAppDelegateForwarder.h"
 #import "MSNotificationHub.h"

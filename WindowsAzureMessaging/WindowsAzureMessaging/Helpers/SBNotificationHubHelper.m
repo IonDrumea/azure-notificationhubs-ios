@@ -3,7 +3,7 @@
 //----------------------------------------------------------------
 
 #import "SBNotificationHubHelper.h"
-#import "SBTemplateRegistration.h"
+#import "../SBTemplateRegistration.h"
 #import <CommonCrypto/CommonDigest.h>
 #import <CommonCrypto/CommonHMAC.h>
 
